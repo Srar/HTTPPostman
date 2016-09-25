@@ -1,0 +1,15 @@
+{
+  "name": "postman",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://git.coding.net/srar/HTTPPostman.git"
+  },
+  "author": "Srar",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "morgan": "^1.7.0",
+    "nodemailer": "^2.4.2"
+  }
+}
